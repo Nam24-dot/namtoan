@@ -4,83 +4,113 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nam Toan's Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-            color: #333;
-        }
-        header {
-            background-color: #0073e6;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
-        nav {
-            background-color: #333;
-            text-align: center;
-        }
-        nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        nav ul li {
-            display: inline;
-            margin-right: 20px;
-        }
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-        }
-        section {
-            padding: 20px;
-        }
-        footer {
-            background-color: #0073e6;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-    <script>
-        function showMessage() {
-            alert("Welcome to Nam Toan's website!");
-        }
-    </script>
+    <link rel="stylesheet" href="style.css"> <!-- Link to CSS -->
 </head>
 <body>
+    <!-- Thanh điều hướng (Header) -->
     <header>
-        <h1>Welcome to Nam Toan's Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
-    
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
 
-    <section id="home">
-        <h2>Home Section</h2>
-        <p>This is the home section of the website.</p>
-    </section>
+    <!-- Nội dung chính (Main) -->
+    <main>
+        <section id="home">
+            <h1>Welcome to Nam Toan's Website</h1>
+            <p>This is the home section of the website. It introduces the content of your page.</p>
+        </section>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Information about Nam Toan.</p>
-    </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Information about you or your website.</p>
+        </section>
 
-    <button onclick="showMessage()">Click me</button>
+        <section id="projects">
+            <h2>My Projects</h2>
+            <p>A brief introduction to the projects you've worked on.</p>
+        </section>
+    </main>
 
+    <!-- Chân trang (Footer) -->
     <footer>
         <p>&copy; 2024 Nam Toan</p>
     </footer>
 </body>
 </html>
+/* Cơ bản */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Header và điều hướng */
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #ff6600;
+}
+
+/* Nội dung chính */
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+main h1 {
+    color: #333;
+    font-size: 36px;
+}
+
+main section {
+    margin: 40px 0;
+}
+
+main p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Chân trang */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+<script>
+    function showAlert() {
+        alert("Welcome to Nam Toan's Website!");
+    }
+</script>
