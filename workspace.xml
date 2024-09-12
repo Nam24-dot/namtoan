@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="feat: new theme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VanhGer&quot;
+  }
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="fix: css and disqus" />
+        <option name="rewordedMessage" value="fix: css and disqus" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="bca7933c0fa99bab9776602aaa689ef6b91ae556" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:VanhGer/vanhger.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;6f5aefd8-d930-4d58-b2de-012b2c08e99f&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="3v1dza3w" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dpMsgB0M2kKYsCDsiSD8ryFYll" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/vanhger/Projects/vanhger.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_pages/Tutorial" />
+      <recent name="$PROJECT_DIR$/_pages/Software" />
+      <recent name="$PROJECT_DIR$/_pages/Blockchain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unrelease" />
+      <recent name="$PROJECT_DIR$/_pages/Love" />
+      <recent name="$PROJECT_DIR$/_pages/Software" />
+      <recent name="$PROJECT_DIR$/_pages/Life" />
+      <recent name="$PROJECT_DIR$/_pages/Blockchain/Cs251" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="" />
+      <created>1710700774655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710700774655</updated>
+      <workItem from="1710700775791" duration="663000" />
+      <workItem from="1722132426146" duration="1176000" />
+      <workItem from="1722156085923" duration="8445000" />
+      <workItem from="1722215412635" duration="752000" />
+      <workItem from="1722236144326" duration="70000" />
+      <workItem from="1722309763508" duration="54000" />
+      <workItem from="1722388435196" duration="4575000" />
+      <workItem from="1722394288428" duration="11349000" />
+      <workItem from="1722413224507" duration="34000" />
+      <workItem from="1722419714224" duration="7635000" />
+      <workItem from="1722440929738" duration="300000" />
+      <workItem from="1722441255886" duration="182000" />
+      <workItem from="1722441494756" duration="2513000" />
+      <workItem from="1722469939002" duration="4909000" />
+      <workItem from="1722477651567" duration="1524000" />
+      <workItem from="1722518186224" duration="16254000" />
+      <workItem from="1722575297764" duration="2544000" />
+      <workItem from="1722611443955" duration="1649000" />
+      <workItem from="1722689641783" duration="7000" />
+      <workItem from="1723988199446" duration="2156000" />
+      <workItem from="1724765136404" duration="606000" />
+      <workItem from="1724807961648" duration="29000" />
+      <workItem from="1724808167134" duration="3000" />
+      <workItem from="1724852625763" duration="3175000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: new post">
+      <option name="closed" value="true" />
+      <created>1722092607705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722092607705</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: new post">
+      <option name="closed" value="true" />
+      <created>1722092616612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722092616612</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: new post">
+      <option name="closed" value="true" />
+      <created>1722092910299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722092910299</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: comment">
+      <option name="closed" value="true" />
+      <created>1722093403950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722093403950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: comment">
+      <option name="closed" value="true" />
+      <created>1722095645289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722095645289</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: change disqus">
+      <option name="closed" value="true" />
+      <created>1722135699475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722135699475</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix: disqus">
+      <option name="closed" value="true" />
+      <created>1722136512529</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722136512529</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: add Permission-Policy">
+      <option name="closed" value="true" />
+      <created>1722137058080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722137058080</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: add Permission-Policy">
+      <option name="closed" value="true" />
+      <created>1722137120537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722137120537</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: Permission-Policy">
+      <option name="closed" value="true" />
+      <created>1722137469620</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722137469620</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix: css and disqus">
+      <option name="closed" value="true" />
+      <created>1722155639687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722155639687</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix: css and disqus">
+      <option name="closed" value="true" />
+      <created>1722157076685</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722157076685</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: css and disqus">
+      <option name="closed" value="true" />
+      <created>1722157234940</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722157234940</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix: css">
+      <option name="closed" value="true" />
+      <created>1722157746293</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722157746293</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix: css">
+      <option name="closed" value="true" />
+      <created>1722158830665</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722158830665</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: new post">
+      <option name="closed" value="true" />
+      <created>1722181263608</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722181263608</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: new theme">
+      <option name="closed" value="true" />
+      <created>1722576932967</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722576932967</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.scss" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: fix comment" />
+    <MESSAGE value="feat: fix comment" />
+    <MESSAGE value="fix: change disqus" />
+    <MESSAGE value="fix: disqus" />
+    <MESSAGE value="fix: add Permission-Policy" />
+    <MESSAGE value="squash! fix: add Permission-Policy" />
+    <MESSAGE value="fix: Permission-Policy" />
+    <MESSAGE value="fix: css" />
+    <MESSAGE value="fix: css" />
+    <MESSAGE value="feat: new post" />
+    <MESSAGE value="feat: new theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: new theme" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
